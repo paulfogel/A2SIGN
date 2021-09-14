@@ -1,0 +1,17 @@
+﻿Cell group;Correction factor
+B Memory;0,6
+B Naive;1,1
+Basophils LD;1,132687003
+CD4+ effector;0,883231352
+CD8 activated;1,195685893
+MAIT;2,24027381
+mDCs;0,114255526
+Monocytes C;0,632192199
+Monocytes NC+I;0,497359215
+Naive T cells;1,585011639
+Neutrophils LD;0,912168001
+NK;1,764532907
+pDCs;0,427197393
+Plasmablasts;0,075552361
+VD2-;0,948813323
+VD2+;0,984966795
